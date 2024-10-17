@@ -1,4 +1,4 @@
-package dev.omedia.section_6.exercise_24;
+package dev.omedia.sections.section_6.exercise_24;
 
 public class NumberToWords {
 

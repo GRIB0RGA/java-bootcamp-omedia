@@ -1,4 +1,4 @@
-package dev.omedia.section_7.exercise_37;
+package dev.omedia.sections.section_7.exercise_37;
 
 public class Rectangle {
     private double width;

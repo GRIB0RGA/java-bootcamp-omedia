@@ -1,4 +1,4 @@
-package dev.omedia.section_6.exercise_19;
+package dev.omedia.sections.section_6.exercise_19;
 
 public class SharedDigit {
     public static boolean hasSharedDigit(int number1, int number2) {

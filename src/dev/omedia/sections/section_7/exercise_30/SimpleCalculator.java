@@ -1,4 +1,4 @@
-package dev.omedia.sections.section_7.exercise_30;
+package dev.omedia.sections.sections.section_7.exercise_30;
 
 public class SimpleCalculator {
 

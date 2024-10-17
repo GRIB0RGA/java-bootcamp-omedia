@@ -1,4 +1,4 @@
-package dev.omedia.section_11.exercise_41;
+package dev.omedia.sections.section_11.exercise_41;
 
 public abstract class ListItem {
 

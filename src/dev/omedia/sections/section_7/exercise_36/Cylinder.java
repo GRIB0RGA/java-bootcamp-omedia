@@ -1,4 +1,4 @@
-package dev.omedia.section_7.exercise_36;
+package dev.omedia.sections.section_7.exercise_36;
 
 public class Cylinder extends Circle {
     private double height;

@@ -1,4 +1,4 @@
-package dev.omedia.section_7.exercise_31;
+package dev.omedia.sections.section_7.exercise_31;
 
 public class Person {
     private String firstName;

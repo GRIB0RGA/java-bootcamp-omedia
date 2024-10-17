@@ -1,4 +1,4 @@
-package dev.omedia.section_5.exercise_8;
+package dev.omedia.sections.section_5.exercise_8;
 
 public class TeenNumberChecker {
 

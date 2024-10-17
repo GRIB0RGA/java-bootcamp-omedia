@@ -1,4 +1,4 @@
-package dev.omedia.section_8.exercise_40;
+package dev.omedia.sections.section_8.exercise_40;
 
 public class Holden extends Car {
 

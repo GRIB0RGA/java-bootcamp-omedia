@@ -1,4 +1,4 @@
-package dev.omedia.section_8.exercise_39;
+package dev.omedia.sections.section_8.exercise_39;
 
 public class Printer {
     private int tonerLevel;

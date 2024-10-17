@@ -1,4 +1,4 @@
-package dev.omedia.section_7.exercise_32;
+package dev.omedia.sections.section_7.exercise_32;
 
 public class Wall {
 

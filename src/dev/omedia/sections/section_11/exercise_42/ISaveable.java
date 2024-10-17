@@ -1,4 +1,4 @@
-package dev.omedia.section_11.exercise_42;
+package dev.omedia.sections.section_11.exercise_42;
 
 import java.util.List;
 

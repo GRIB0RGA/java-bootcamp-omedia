@@ -1,4 +1,4 @@
-package dev.omedia.section_5.exercise_6;
+package dev.omedia.sections.section_5.exercise_6;
 
 public class DecimalComparator {
 

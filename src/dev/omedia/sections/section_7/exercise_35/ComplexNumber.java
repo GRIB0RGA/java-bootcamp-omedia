@@ -1,4 +1,4 @@
-package dev.omedia.section_7.exercise_35;
+package dev.omedia.sections.section_7.exercise_35;
 
 
 public class ComplexNumber {

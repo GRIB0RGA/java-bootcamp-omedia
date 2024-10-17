@@ -1,4 +1,4 @@
-package dev.omedia.section_8.exercise_38;
+package dev.omedia.sections.section_8.exercise_38;
 
 public class Bedroom {
     private String name;

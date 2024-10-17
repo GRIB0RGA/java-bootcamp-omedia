@@ -1,4 +1,4 @@
-package dev.omedia.section_5.exercise_12;
+package dev.omedia.sections.section_5.exercise_12;
 
 public class PlayingCat {
 

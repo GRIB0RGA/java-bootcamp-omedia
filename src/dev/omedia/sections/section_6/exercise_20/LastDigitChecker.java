@@ -1,4 +1,4 @@
-package dev.omedia.section_6.exercise_20;
+package dev.omedia.sections.section_6.exercise_20;
 
 public class LastDigitChecker {
 

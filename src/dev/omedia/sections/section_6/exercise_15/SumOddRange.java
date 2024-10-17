@@ -1,4 +1,4 @@
-package dev.omedia.section_6.exercise_15;
+package dev.omedia.sections.section_6.exercise_15;
 
 public class SumOddRange {
     public static boolean isOdd(int number) {
